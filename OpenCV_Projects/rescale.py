@@ -1,4 +1,4 @@
-#htis is for resizing and rescaling the videos images andlive video
+#this is for resizing and rescaling the videos images andlive video
 
 import cv2 as cv
 
